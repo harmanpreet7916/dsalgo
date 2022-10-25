@@ -11,11 +11,6 @@ Hacktoberfest encourages participation in the open source community, which grows
 
  - 💻 C
  - 💻 C++
- - 💻 PHP
- - 💻 Python
- - 💻 Java
- - 💻 Javascript
- - 💻 Go
 
 ## Programs
  - Write a program to print the sum of digit of a number.
